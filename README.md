@@ -10,15 +10,17 @@ ReArt is a platform that empowers artists to share their artwork with the world.
 - **Get Likes**: Artists can receive likes on their artwork, fostering a positive and supportive environment.
 
 ## Technologies Used
-- Frontend: (Specify technologies used for frontend development)
-- Backend: (Specify technologies used for backend development)
-- Database: ReArt (Specify the database technology used)
+- HTML
+- CSS
+- JS
+- PHP
+- Database: ReArT.sql
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/username/reart.git`
 2. Navigate to the project directory: `cd reart`
-3. Install dependencies: `npm install` (or use the appropriate command based on your package manager)
-4. Start the server: `npm start` (or use the appropriate command based on your package manager)
+3. Install dependencies: `npm install` 
+4. Start the server: `npm start`
 
 ## Usage
 After installation, you can visit `http://localhost:3000` (or the appropriate port) in your browser to start exploring the ReArt platform. Sign up as an artist, share your art, and engage with the community!
